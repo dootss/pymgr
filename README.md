@@ -1,6 +1,6 @@
 # pymgr
 
-`pymgr` - a pure python windows cpu & ram monitor
+`pymgr` - a python ctypes windows cpu & ram monitor
 
 (if for whatever reason you can't or don't wanna use psutil)
 
